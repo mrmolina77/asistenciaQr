@@ -1,0 +1,5 @@
+{
+  "endpoint": "https://edukado.example/api/v1/attendance/offline-events",
+  "device_id": "lector-secretaria-01",
+  "period_version": null
+}
